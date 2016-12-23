@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="alfa.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="365.90349"
+     inkscape:cy="359.29442"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4142"
+       transform="matrix(1.4623151,0,0,1.4623151,-106.93562,-237.13086)">
+      <path
+         sodipodi:type="star"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:7.71500015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4140"
+         sodipodi:sides="10"
+         sodipodi:cx="233.30463"
+         sodipodi:cy="514.92041"
+         sodipodi:r1="145.14244"
+         sodipodi:r2="117.4227"
+         sodipodi:arg1="0.7410922"
+         sodipodi:arg2="1.0552515"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 340.3808,612.90521 -49.18573,4.1758 -28.85802,40.04856 -42.24657,-25.53236 -46.88658,15.43766 -19.17064,-45.48802 -47.00607,-15.06992 11.22781,-48.0688 -29.170839,-39.82129 37.337629,-32.28894 -0.19334,-49.36229 49.18574,-4.1758 28.85801,-40.04856 42.24657,25.53236 46.88658,-15.43766 19.17065,45.48802 47.00607,15.06992 -11.22781,48.0688 29.17083,39.82129 -37.33762,32.28894 z"
+         inkscape:transform-center-x="-0.00031054644"
+         inkscape:transform-center-y="0.00027658012" />
+      <path
+         inkscape:transform-center-y="0.00027658012"
+         inkscape:transform-center-x="-0.00031054644"
+         d="m 336.3808,608.90524 -49.18573,4.1758 -28.85802,40.04857 -42.24657,-25.53236 -46.88658,15.43765 -19.17064,-45.48802 -47.00607,-15.06991 11.22781,-48.06881 -29.170839,-39.82129 37.337629,-32.28894 -0.19334,-49.36229 49.18574,-4.17579 28.85801,-40.04857 42.24657,25.53236 46.88658,-15.43766 19.17065,45.48802 47.00607,15.06992 -11.22781,48.0688 29.17083,39.82129 -37.33762,32.28894 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0552515"
+         sodipodi:arg1="0.7410922"
+         sodipodi:r2="117.4227"
+         sodipodi:r1="145.14244"
+         sodipodi:cy="510.92044"
+         sodipodi:cx="229.30463"
+         sodipodi:sides="10"
+         id="path4138"
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:7.71500015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="189.90868"
+       y="888.71747"
+       id="text4146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4148"
+         x="189.90868"
+         y="888.71747">TO DAR NEBUVO</tspan></text>
+  </g>
+</svg>
